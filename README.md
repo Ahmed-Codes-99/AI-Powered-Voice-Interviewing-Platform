@@ -79,7 +79,7 @@ First install the packages:
 ```bash
 yarn
 ```
-
+## Run
 Run the development server:
 
 The software code is licensed under the MIT License.
